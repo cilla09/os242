@@ -2,4 +2,18 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 30 L00 Github related
+ZCZC W00 90 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 20 L04 Github Pages related
+ZCZC W00 60 L00 General, etc.
+
+ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 10 L41 TXT/mylog.txt related.
+ZCZC W01 45 L83 Pets: feeding, playing, etc
+ZCZC W01 400 L84 Relax, Rest, Nap, and Sleep
+ZCZC W01 180 L88 Workout/Sport/Exercise/ETC.
+ZCZC W01 150 L09 L09 Assignment in General
+ZCZC W01 60 L11 Assignment #01
+ZCZC W01 30 L12 Assignment #02
+ZCZC W01 50 L13 Assignment #03
+ZCZC W01 10 L14 Assignment #04
+ZCZC W01 5 L15 Assignment #05
