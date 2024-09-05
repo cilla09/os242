@@ -18,4 +18,8 @@ ZCZC W01 50 L13 Assignment #03
 ZCZC W01 10 L14 Assignment #04
 ZCZC W01 5 L15 Assignment #05
 ZCZC W01 60 L71 Working (General)
-
+ZCZC W01 30 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W01 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W01 50 L87 Breakfast/Lunch/Dinner/Snake
+ZCZC W01 10 L04 GitHub Pages related
