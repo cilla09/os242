@@ -6,20 +6,19 @@ ZCZC W00 90 L03 GitHub and git related, including commit, push, pull
 ZCZC W00 20 L04 Github Pages related
 ZCZC W00 60 L00 General, etc.
 
-ZCZC W01 60 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W01 10 L41 TXT/mylog.txt related.
-ZCZC W01 45 L83 Pets: feeding, playing, etc
-ZCZC W01 400 L84 Relax, Rest, Nap, and Sleep
-ZCZC W01 180 L88 Workout/Sport/Exercise/ETC.
-ZCZC W01 150 L09 L09 Assignment in General
-ZCZC W01 60 L11 Assignment #01
-ZCZC W01 30 L12 Assignment #02
-ZCZC W01 50 L13 Assignment #03
-ZCZC W01 10 L14 Assignment #04
-ZCZC W01 5 L15 Assignment #05
-ZCZC W01 60 L71 Working (General)
-ZCZC W01 30 L61 Install/Reinstall/Restore/Backup Virtual Box
-ZCZC W01 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
-ZCZC W01 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
-ZCZC W01 50 L87 Breakfast/Lunch/Dinner/Snake
-ZCZC W01 10 L04 GitHub Pages related
+ZCZC W01 30 L61 Installing Virtual Box
+ZCZC W01 60 L31 VirtualBox: installing GNU/Linux
+ZCZC W01 10 L41 Updating my log in TXT/mylog.txt
+ZCZC W01 45 L83 Feeding and playing with my cats
+ZCZC W01 400 L84 Resting and sleeping
+ZCZC W01 180 L88 Workout with Dumbbells at Home
+ZCZC W01 150 L09 Doing my assignments 
+ZCZC W01 60 L11 Working on Assignment #01
+ZCZC W01 30 L12 Working on Assignment #02
+ZCZC W01 50 L13 Working on Assignment #03
+ZCZC W01 10 L14 Working on Assignment #04
+ZCZC W01 5 L15 Working on Assignment #05
+ZCZC W01 30 L62 Installing and Setting Up Virtual Debian Guest
+ZCZC W01 60 L80 Watching Youtube for Entertainment
+ZCZC W01 50 L87 Breakfast, Lunch, Dinner
+ZCZC W01 10 L04 Making the Links Page
