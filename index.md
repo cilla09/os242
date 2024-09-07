@@ -1,6 +1,6 @@
 ---
 ---
 
-- [mylog.txt](TXT/mylog.txt)
-- [GitHub](https://github.com)
-- [LINKS/](LINKS/)
+- [Log](TXT/mylog.txt)
+- [GitHub](https://github.com/os242)
+- [Links](LINKS/)
