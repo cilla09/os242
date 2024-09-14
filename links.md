@@ -3,3 +3,6 @@ permalink: LINKS/
 ---
 1. [A Crash Course on Operating Systems.](https://www.youtube.com/watch?v=26QPDBe-NB8) -  Useful for knowing the background and history of OS.
 2. [How Do Operating Systems Work?](https://www.youtube.com/watch?v=GjNp0bBrjmU) -  To get a better understanding of how operating systems work.
+3. [Bash cheat sheet: Top 25 commands and creating custom commands](https://www.educative.io/blog/bash-shell-command-cheat-sheet) - Great for knowing basic Bash commands.
+4. [Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html) - Understanding basic vi commands and their uses.
+5. [Nano Commands](https://www.unomaha.edu/college-of-information-science-and-technology/computer-science-learning-center/_files/resources/CSLC-Helpdocs-Nano.pdf) - A useful PDF file on Nano Commands, helps to understand the usage of Nano when editing files through terminal.
