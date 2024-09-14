@@ -22,3 +22,16 @@ ZCZC W01 30 L62 Installing and Setting Up Virtual Debian Guest
 ZCZC W01 60 L80 Watching Youtube for Entertainment
 ZCZC W01 50 L87 Breakfast, Lunch, Dinner
 ZCZC W01 10 L04 Making the Links Page
+
+ZCZC W02 40 L05 Studying for Quiz Week 2
+ZCZC W02 60 L03 Struggling to push to Github
+ZCZC W02 120 L32 Watching the Cyber Security Playlist
+ZCZC W02 30 L26 Making the GnuPG key 
+ZCZC W02 60 L27 Making and adding SSH key to Github
+ZCZC W02 10 L41 Adding my log for Week2
+ZCZC W02 20 L04 Adding links to Github Page
+ZCZC W02 45 L83 Feeding and playing with my cats
+ZCZC W02 400 L84 Resting and sleeping
+ZCZC W02 120 L08 Getting help from friends about the assignment
+ZCZC W02 120 L21 Breaking free from my Github struggles
+ZCZC W01 90 L87 Breakfast, Lunch, Dinner
