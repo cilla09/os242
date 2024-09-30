@@ -46,3 +46,16 @@ ZCZC W03 90 L88 Working out and walking
 ZCZC W03 60 L13 Making the virtual disk for Assignment 3
 ZCZC W03 30 L12 Backing up my SSH and GPG keys
 ZCZC W03 120 L06 Reading Silberschatz
+
+ZCZC W04 45 L83 Feeding and playing with my cats
+ZCZC W04 400 L84 Resting and sleeping
+ZCZC W04 15 L41 Adding my log for Week3
+ZCZC W04 90 L80 Watching Netflix and Youtube
+ZCZC W04 90 L88 Working out and walking
+ZCZC W04 30 L12 Backing up my SSH and GPG keys
+ZCZC W04 120 L06 Reading Silberschatz
+ZCZC W04 30 L04 Adding links to Github Page
+ZCZC W04 30 L14 Compiling TLPI
+ZCZC W04 60 L05 Doing the pop quizzes
+ZCZC W04 35 L45 Fixing chkSUMerr
+ZCZC W04 15 L43 Inputting ranks
