@@ -9,6 +9,5 @@ permalink: LINKS/
 6. [Linux File System and Structure](https://www.youtube.com/watch?v=HbgzrKJvDRw) - A video that helped me understand the file system and directories in Linux, such as /bin, /sbin, and so on. 
 7. [How to Compress Files in Linux](https://www.geeksforgeeks.org/tar-command-linux-examples/) - An article about the varieties of ways to compress files in Linux, one of which is tar, that we use in our assignments.
 8. [Makefile in Linux](https://data-flair.training/blogs/makefile-in-linux/) - An article explaining what is Makefile in Linux, how it works, how to use it, and its uses.
-9. [Introduction to Linux](https://www.linux.com/what-is-linux/)
-10. [VirtualBox Documentation](https://www.virtualbox.org/wiki/Documentation)
-11. [The Linux Command Line](https://linuxcommand.org/)
+9. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/) - An article about memory management in operating system, it covers main memory, memory management, why is it required, etc.
+10. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/) - An article that helped me understand the difference between logical and physical address in OS.
