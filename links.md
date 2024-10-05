@@ -11,3 +11,5 @@ permalink: LINKS/
 8. [Makefile in Linux](https://data-flair.training/blogs/makefile-in-linux/) - An article explaining what is Makefile in Linux, how it works, how to use it, and its uses.
 9. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/) - An article about memory management in operating system, it covers main memory, memory management, why is it required, etc.
 10. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/) - An article that helped me understand the difference between logical and physical address in OS.
+11. [What is Virtual Memory?](https://tldp.org/LDP/sag/html/vm-intro.html#:~:text=Linux%20supports%20virtual%20memory%2C%20that,be%20used%20for%20another%20purpose.) - An article explaining the concept of virtual memory.
+12. [Virtual Memory in Operating Systems](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) - A very detailed explaination of virtual memory in OS, including paging, swapping, thrashing, and much more.
