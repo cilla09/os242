@@ -49,7 +49,7 @@ ZCZC W03 120 L06 Reading Silberschatz
 
 ZCZC W04 45 L83 Feeding and playing with my cats
 ZCZC W04 400 L84 Resting and sleeping
-ZCZC W04 15 L41 Adding my log for Week3
+ZCZC W04 15 L41 Adding my log for Week4
 ZCZC W04 90 L80 Watching Netflix and Youtube
 ZCZC W04 90 L88 Working out and walking
 ZCZC W04 30 L12 Backing up my SSH and GPG keys
@@ -59,3 +59,16 @@ ZCZC W04 30 L14 Compiling TLPI
 ZCZC W04 60 L05 Doing the pop quizzes
 ZCZC W04 35 L45 Fixing chkSUMerr
 ZCZC W04 15 L43 Inputting ranks
+
+ZCZC W05 45 L83 Feeding and playing with my cats
+ZCZC W05 600 L84 Resting and sleeping
+ZCZC W05 15 L41 Adding my log for Week5
+ZCZC W05 90 L80 Watching Netflix and Youtube
+ZCZC W05 90 L88 Working out and walking
+ZCZC W05 60 L05 Doing the pop quizzes
+ZCZC W05 15 L43 Inputting ranks
+ZCZC W05 30 L12 Backing up my SSH and GPG keys
+ZCZC W05 120 L06 Reading Silberschatz
+ZCZC W05 30 L13 Doing Assignment #3
+ZCZC W05 30 L15 Doing Assignment #5
+ZCZC W05 120 L86 Doing house chores
