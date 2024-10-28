@@ -15,4 +15,4 @@ permalink: LINKS/
 12. [Virtual Memory in Operating Systems](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) - A very detailed explaination of virtual memory in OS, including paging, swapping, thrashing, and much more.
 13. [Fork System Call](https://www.geeksforgeeks.org/fork-system-call/) - An article explaining the Fork system call, alongside a few examples that I can learn from.
 14. [Process in Operating System](https://www.studytonight.com/operating-system/operating-system-processes) - An article useful for learning the process in operating system, the four sections of process memory, process states, process control blocks, and the difference between OS process and a program.
-15. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY)) - A video explaining fork() and exec() system calls, easier to watch and understand because there are good examples. 
+15. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY) - A video explaining fork() and exec() system calls, easier to watch and understand because there are good examples. 
