@@ -13,3 +13,6 @@ permalink: LINKS/
 10. [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/) - An article that helped me understand the difference between logical and physical address in OS.
 11. [What is Virtual Memory?](https://tldp.org/LDP/sag/html/vm-intro.html#:~:text=Linux%20supports%20virtual%20memory%2C%20that,be%20used%20for%20another%20purpose.) - An article explaining the concept of virtual memory.
 12. [Virtual Memory in Operating Systems](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) - A very detailed explaination of virtual memory in OS, including paging, swapping, thrashing, and much more.
+13. [Fork System Call](https://www.geeksforgeeks.org/fork-system-call/) - An article explaining the Fork system call, alongside a few examples that I can learn from.
+14. [Process in Operating System](https://www.studytonight.com/operating-system/operating-system-processes) - An article useful for learning the process in operating system, the four sections of process memory, process states, process control blocks, and the difference between OS process and a program.
+15. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY)) - A video explaining fork() and exec() system calls, easier to watch and understand because there are good examples. 
