@@ -72,3 +72,19 @@ ZCZC W05 120 L06 Reading Silberschatz
 ZCZC W05 30 L13 Doing Assignment #3
 ZCZC W05 30 L15 Doing Assignment #5
 ZCZC W05 120 L86 Doing house chores
+
+ZCZC W06 45 L83 Feeding and playing with my cats
+ZCZC W06 15 L41 Adding my log for Week6
+ZCZC W06 600 L84 Resting and sleeping
+ZCZC W06 70 L05 Doing the pop quizzes
+ZCZC W06 100 L06 Reading Silberschatz
+ZCZC W06 30 L11 Doing Assignment #1
+ZCZC W06 30 L12 Doing Assignment #2
+ZCZC W06 30 L13 Doing Assignment #3
+ZCZC W06 30 L14 Doing Assignment #4
+ZCZC W06 30 L15 Doing Assignment #5
+ZCZC W06 150 L86 Doing house chores
+ZCZC W06 15 L43 Inputting ranks
+ZCZC W06 300 L80 Watching Netflix and Youtube
+ZCZC W06 60 L04 Adding links to Github Page
+ZCZC W06 10 L12 Backing up my SSH and GPG keys
