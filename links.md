@@ -19,4 +19,7 @@ permalink: LINKS/
 16. [Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html) - Helps me to understand the producer-consumer problem and the solution for it.
 17. [Semaphore in OS](https://www.scaler.com/topics/operating-system/semaphore-in-os/) - Explains semaphore which is useful as non-negative integer that is used to solve the critical section problem by acting as a signal.
 18. [Deadlocks](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html) - A very complete article explaining everything about deadlocks.
- 
+19. [Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html) - An article explaining what is multiple processor and the process of multiple processor scheduling.
+20. [Linux From Scratch](https://www.linuxfromscratch.org/) - A guide on how to build LFS step by step.
+21. [LFS: more simple](https://github.com/comfies/tldrlfs) - A GitHub repository containing instructions for building LFS, but in a way easier to understand.
+22. 
