@@ -99,5 +99,18 @@ ZCZC W07 110 L06 Reading Silberschatz
 ZCZC W07 15 L43 Inputting ranks
 ZCZC W07 300 L80 Watching Netflix and Youtube
 ZCZC W07 60 L04 Adding links to Github Page
-ZCZC W07 15 L41 Adding my log for Week6
+ZCZC W07 15 L41 Adding my log for Week7
 ZCZC W07 600 L84 Resting and sleeping
+
+ZCZC W08 100 L83 Feeding and playing with my cats
+ZCZC W08 30 L11 Doing Assignment #1
+ZCZC W08 30 L12 Doing Assignment #2
+ZCZC W08 300 L13 Doing Assignment #3
+ZCZC W08 30 L14 Doing Assignment #4
+ZCZC W08 40 L05 Doing the pop quizzes
+ZCZC W08 60 L04 Adding links to Github Page
+ZCZC W08 15 L41 Adding my log for Week8
+ZCZC W08 600 L84 Resting and sleeping
+ZCZC W08 130 L06 Reading Silberschatz
+ZCZC W08 15 L43 Inputting ranks
+ZCZC W08 300 L80 Watching Netflix and Youtube
